@@ -1,0 +1,330 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Movie",
+				"MoviesList"
+			],
+			[
+				"moves",
+				"moviesList.js"
+			],
+			[
+				"Movies",
+				"MoviesList"
+			],
+			[
+				"movies",
+				"moviesView"
+			],
+			[
+				"Mo",
+				"MovieView"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"Back",
+				"Backbone"
+			],
+			[
+				"resetSelected",
+				"resetSelected()"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"mo",
+				"monitor.js"
+			],
+			[
+				"fl",
+				"fl-l	float: left;"
+			],
+			[
+				"color",
+				"color:   (property)"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"Session",
+				"Session.get	Meteor: Session.get(key)"
+			],
+			[
+				"conte",
+				"content	(str)"
+			],
+			[
+				"fon",
+				"font_face"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Choose browser.sublime-build",
+	"command_palette":
+	{
+		"height": 205.0,
+		"selected_items":
+		[
+			[
+				"ssx js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssxJac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssx json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssxjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssxhand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"termin",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"ss",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjp",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pakage",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/randre03/dev/mulder/movies",
+		"/Users/randre03/dev/mulder/movies/app",
+		"/Users/randre03/dev/mulder/movies/app/collections",
+		"/Users/randre03/dev/mulder/movies/app/models",
+		"/Users/randre03/dev/mulder/movies/app/views",
+		"/Users/randre03/dev/mulder/movies/static"
+	],
+	"file_history":
+	[
+		"/Users/randre03/dev/mulder/movies/index.html",
+		"/Users/randre03/dev/mulder/movies/app/views/movie.js",
+		"/Users/randre03/dev/mulder/movies/.jshintignore",
+		"/Users/randre03/dev/mulder/movies/.jshintrc",
+		"/Users/randre03/dev/mulder/movies/.editorconfig",
+		"/Users/randre03/dev/mulder/movies/app/views/moviesList.js",
+		"/Users/randre03/dev/mulder/movies/app/main.js",
+		"/Users/randre03/dev/mulder/movies/app/collections/movies.js",
+		"/Users/randre03/dev/mulder/movies/app/models/movie.js",
+		"/Users/randre03/dev/mulder/movies/static/bundle.js",
+		"/Users/randre03/dev/mulder/movies/app/monitor.js",
+		"/Users/randre03/dev/mulder/movies/app/main.json",
+		"/Users/randre03/dev/mulder/movies/package.json",
+		"/Users/randre03/dev/mulder/movies/node_modules/.bin/browserify",
+		"/Users/randre03/dev/mulder/movies/static/style.css",
+		"/Users/randre03/dev/full stack/app/main.js",
+		"/Users/randre03/dev/full stack/static/bundle.js",
+		"/Users/randre03/dev/rpjs/intro/backbone-1.1.2.js",
+		"/Users/randre03/dev/rpjs/intro/index.html",
+		"/Users/randre03/dev/rpjs/intro/underscore.js-1.7.0.js",
+		"/Users/randre03/dev/rpjs/intro/jquery-1.9.0.js",
+		"/Users/randre03/dev/meteor/atom2/client/views/application/packageListing.html",
+		"/Users/randre03/dev/meteor/atom2/client/views/application/packageListing.js",
+		"/Users/randre03/dev/meteor/atom2/server/server.js",
+		"/Users/randre03/dev/meteor/atom2/client/main.js",
+		"/Users/randre03/dev/meteor/atom2/client/helpers/config.js",
+		"/Users/randre03/dev/meteor/atom2/client/views/helpers/disqus.html",
+		"/Users/randre03/dev/meteor/atom2/client/views/helpers/disqus.js",
+		"/Users/randre03/dev/meteor/atom2/settings.json",
+		"/Users/randre03/dev/meteor/atom2/README.MD",
+		"/Users/randre03/dev/meteor/atom2/packages.json",
+		"/Users/randre03/dev/meteor/atom2/20141014 Error Log"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 32.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 132.0
+	},
+	"project": "movies.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".gitignor",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

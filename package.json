@@ -1,0 +1,20 @@
+{
+  "name": "movies",
+  "version": "0.0.0",
+  "description": "The tutorial app from Full Stack Web Development by Patrick Mulder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "randre03",
+  "license": "ISC",
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "jquery": "^2.1.1",
+    "jquery-untouched": "^1.10.2"
+  },
+  "devDependencies": {
+    "browserify": "^6.1.0",
+    "underscore": "^1.7.0"
+  }
+}
